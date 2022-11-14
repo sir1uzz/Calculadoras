@@ -1,2 +1,2 @@
 # Calculadoras
-Repositório de calculadoras em linguagem C
+Repositório de calculadoras do Curso de Extensão, em linguagem C
